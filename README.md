@@ -1,10 +1,10 @@
 # Shopper-Spectrum
 Customer Segmentation and Product Recommendations in E-Commerce
 
-# Domain
+## Domain
 E-Commerce and Retail Analytics
 
-# Skills Take away
+## Skills learned
 Public Dataset Exploration and Preprocessing
 Data Cleaning and Feature Engineering 
 Exploratory Data Analysis(EDA)
@@ -20,6 +20,6 @@ Identifying At-Risk Customers for Retention Programs
 Dynamic Pricing Strategies Based on Purchase Behavior
 Inventory Management and Stock Optimization Based on Customer Demand Patterns
 
-# Problem Type
+## Problem Type
 Unsupervised Machine Learning – Clustering
 Collaborative Filtering – Recommendation System
